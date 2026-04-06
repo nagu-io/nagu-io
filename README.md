@@ -15,6 +15,6 @@ Focused on what actually works — not assumptions.
 📫 nagu20021@gmail.com
 
 <!---
-Nagu2025/Nagu2025 is a  special repository because its `README.md` (this file) appears on your GitHub profile.
+Nagu.io/Nagu.io is a  special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
