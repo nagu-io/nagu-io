@@ -1,7 +1,18 @@
-AI agent safety & blockchain systems builder  
-Creator of AgentSettlementBench — evaluating reliability of AI in financial decisions  
-Interested in distributed systems, LLM agents, and payment infrastructure
-📫 nagu200021@gmail.com
+Nagu — AI Systems | Reliability | Infrastructure
+
+AI systems builder focused on safety, evaluation, and real-world reliability.
+
+Creator of AgentSettlementBench  
+→ Testing how AI behaves in financial decision-making
+
+Building at the intersection of:
+→ LLM agents  
+→ distributed systems  
+→ payment infrastructure  
+
+Focused on what actually works — not assumptions.
+
+📫 nagu20021@gmail.com
 
 <!---
 Nagu2025/Nagu2025 is a  special repository because its `README.md` (this file) appears on your GitHub profile.
